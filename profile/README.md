@@ -37,7 +37,7 @@ Simply scroll through or use `Ctrl + F` (or `Cmd + F` on Mac) to quickly find th
 
 Found a missing abbreviation or want to add a category? Raise an issue or submit a pull request — let’s build the largest open-source full form reference together!
 
-🎯If you want to know about A to z full forms list abbreviation vs acronym, fullforms, list of abbreviations list PDF, a to z abbreviation list, general full forms list, full form list, full forms of GK, top 100 important full forms, short form, stand for, initialism, abbreviation examples [**Click Here**](https://atozfullformslist.blogspot.com/)
+🎯If you want to know about A to z full forms list abbreviation vs acronym, fullforms, list of abbreviations list PDF, a to z abbreviation list, general full forms list, full form list, full forms of GK, top 100 important full forms, short form, stand for, initialism, [**Click Here**](https://atozfullformslist.blogspot.com/)
 
 ⭐ Don’t forget to **Star** this repo if you find it helpful!
 
